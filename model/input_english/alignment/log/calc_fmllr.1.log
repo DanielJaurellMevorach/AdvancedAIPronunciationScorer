@@ -1,0 +1,16 @@
+2025-05-10 03:02:25,930 - kalpy.fmllr - 53868 - 1 - DEBUG - Computing transforms from scratch
+2025-05-10 03:02:25,932 - kalpy.fmllr - 53868 - 1 - DEBUG - Feature Archive information:
+2025-05-10 03:02:25,932 - kalpy.fmllr - 53868 - 1 - DEBUG - CMVN: None
+2025-05-10 03:02:25,932 - kalpy.fmllr - 53868 - 1 - DEBUG - Deltas: False
+2025-05-10 03:02:25,932 - kalpy.fmllr - 53868 - 1 - DEBUG - Splices: True
+2025-05-10 03:02:25,932 - kalpy.fmllr - 53868 - 1 - DEBUG - LDA: C:\Users\Daniel\Desktop\UCLL\AdvancedAI\phoneme\model\input_english\alignment\lda.mat
+2025-05-10 03:02:25,932 - kalpy.fmllr - 53868 - 1 - DEBUG - fMLLR: None
+2025-05-10 03:02:25,933 - kalpy.fmllr - 53868 - 1 - DEBUG - Model information:
+2025-05-10 03:02:25,933 - kalpy.fmllr - 53868 - 1 - DEBUG - Align model path: C:\Users\Daniel\Desktop\UCLL\AdvancedAI\phoneme\model\input_english\alignment\final.alimdl
+2025-05-10 03:02:25,933 - kalpy.fmllr - 53868 - 1 - DEBUG - Model path: C:\Users\Daniel\Desktop\UCLL\AdvancedAI\phoneme\model\input_english\alignment\final.mdl
+2025-05-10 03:02:26,283 - kalpy.fmllr - 53868 - 1 - DEBUG - Alignment path: C:\Users\Daniel\Desktop\UCLL\AdvancedAI\phoneme\model\input_english\alignment\ali.1.1.ark
+2025-05-10 03:02:26,292 - kalpy.fmllr - 53868 - 1 - INFO - Processing speaker 1...
+2025-05-10 03:02:26,399 - kalpy.fmllr - 53868 - 1 - DEBUG - For speaker 1, auxf-impr from fMLLR is 9.667085327854046, over 519.0 frames.
+2025-05-10 03:02:26,399 - kalpy.fmllr - 53868 - 1 - INFO - Done 1 utterances.
+2025-05-10 03:02:26,400 - kalpy.fmllr - 53868 - 1 - INFO - Skipped 0 utterances.
+2025-05-10 03:02:26,400 - kalpy.fmllr - 53868 - 1 - INFO - Overall fMLLR auxf impr per frame is 9.667085327854046 over 519.0 frames.

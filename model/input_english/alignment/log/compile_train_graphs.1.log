@@ -1,0 +1,7 @@
+2025-05-10 03:02:18,203 - kalpy.graphs - 53916 - 1 - DEBUG - Tree path: C:\Users\Daniel\Desktop\UCLL\AdvancedAI\phoneme\model\input_english\alignment\tree
+2025-05-10 03:02:18,203 - kalpy.graphs - 53916 - 1 - DEBUG - Model path: C:\Users\Daniel\Desktop\UCLL\AdvancedAI\phoneme\model\input_english\alignment\final.alimdl
+2025-05-10 03:02:22,839 - kalpy.graphs - 53916 - 1 - DEBUG - Set up took 4.630859375 seconds
+2025-05-10 03:02:22,839 - kalpy.graphs - 53916 - 1 - INFO - Compiling graphs for english_us_arpa
+2025-05-10 03:02:22,842 - kalpy.graphs - 53916 - 1 - DEBUG - DISAMBIGUATION: False
+2025-05-10 03:02:23,064 - kalpy.graphs - 53916 - 1 - INFO - Done 1 utterances, errors on 0.
+2025-05-10 03:02:23,065 - kalpy.graphs - 53916 - 1 - DEBUG - Total compilation time: 4.857076406478882 seconds
