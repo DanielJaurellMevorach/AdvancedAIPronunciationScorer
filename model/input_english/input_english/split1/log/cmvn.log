@@ -1,4 +1,0 @@
-2025-05-10 03:02:15,735 - kalpy.cmvn - INFO - Reading features from: C:\Users\Daniel\Desktop\UCLL\AdvancedAI\phoneme\model\input_english\input_english\feats.scp
-2025-05-10 03:02:15,736 - kalpy.cmvn - INFO - Reading spk2utt from: C:\Users\Daniel\Desktop\UCLL\AdvancedAI\phoneme\model\input_english\input_english\spk2utt.scp
-2025-05-10 03:02:15,740 - kalpy.cmvn - DEBUG - Writing to: ark,scp:C:\Users\Daniel\Desktop\UCLL\AdvancedAI\phoneme\model\input_english\input_english\cmvn.ark,C:\Users\Daniel\Desktop\UCLL\AdvancedAI\phoneme\model\input_english\input_english\cmvn.scp
-2025-05-10 03:02:15,742 - kalpy.cmvn - INFO - Processing speaker 1: 1 utterances
